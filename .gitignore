@@ -1,0 +1,6 @@
+
+# Ignored data and generated files
+DEV/chronic_deseases/
+.DS_Store
+__pycache__/
+*.pyc
